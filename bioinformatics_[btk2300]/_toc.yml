@@ -10,4 +10,5 @@
   - file: chapter_2/chapter_2
 - part: Appendices
   chapters:
-  - file: appendices/Appendix_A
+  - file: appendices/appendix_A
+  - file: appendices/glossary
