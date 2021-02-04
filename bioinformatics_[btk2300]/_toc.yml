@@ -1,0 +1,13 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+- file: intro
+- part: Book chapters
+  chapters:
+  - file: chapter_1/chapter_1
+    sections:
+      - file: chapter_1/algorithms
+      - file: chapter_1/flowcharts
+  - file: chapter_2/chapter_2
+- part: Appendices
+  chapters:
+  - file: appendices/Appendix_A

@@ -1,0 +1,18 @@
+#######################################################################################
+# A default configuration that will be loaded for all jupyter books
+# See the documentation for help and more options: 
+# https://jupyterbook.org/customize/config.html
+
+#######################################################################################
+# Book settings
+title                       : Bioinformatics [BTK2300]  # The title of the book. Will be placed in the left navbar.
+author                      : Ebrahim Afyounian  # The author of the book
+copyright                   : "2021"  # Copyright year to be placed in the footer
+logo                        : logo.png  # A path to the book logo
+
+only_build_toc_files: true # Disable building files that aren’t specified in the TOC
+
+#######################################################################################
+# HTML-specific settings
+html:
+  favicon                   : "./resources/favicon.svg"  # A path to a favicon image
