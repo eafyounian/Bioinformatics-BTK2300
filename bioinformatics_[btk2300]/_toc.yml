@@ -3,6 +3,7 @@
 - file: intro
 - part: Book chapters
   chapters:
+  - file: concepts
   - file: chapter_1/chapter_1
     sections:
       - file: chapter_1/algorithms

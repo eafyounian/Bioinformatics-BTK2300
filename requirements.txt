@@ -1,4 +1,7 @@
 jupyter-book>=0.7.0b
 matplotlib
 numpy
+networkx
+pandas
+bokeh
 ghp-import
